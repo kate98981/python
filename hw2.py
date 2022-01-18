@@ -1,5 +1,5 @@
 import math
-# Arithmetic
+
 item_1 = 9
 item_2 = 10
 result_sum = item_1 + item_2
@@ -67,7 +67,7 @@ print(item_3)
 
 item_3 %= item_3
 print(item_3)
-# Boolean
+
 b_item_t = True
 b_item_f = False
 b_item_result_sum = b_item_t + b_item_f
