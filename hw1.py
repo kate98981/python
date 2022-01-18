@@ -1,7 +1,7 @@
 str_type = "hello"
 int_type = 1
 float_type = 2.05
-bytes_type = b'Kate'
+bytes_type = bytes("Катя", encoding="UTF-8")
 list_type = ['hi', 12, 2.0]
 type_turp = ("Kate", 23, 8 + 8j)
 set_type = {1, 2, 3, type_turp, float_type}
