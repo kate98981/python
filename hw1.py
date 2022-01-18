@@ -7,7 +7,6 @@ type_turp = ("Kate", 23, 8 + 8j)
 set_type = {1, 2, 3, type_turp, float_type}
 frozenset_type = frozenset({'a', 'b', 'c'})
 dict_type = {1: 'cat', 2: 'dog'}
-
 print("str_type = ", str_type, type(str_type))
 print("int_type = ", int_type, type(int_type))
 print("float_type = ", float_type, type(float_type))
