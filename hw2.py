@@ -26,8 +26,8 @@ print(result_m_s_root)
 result_mp_s_root = math.pow(item_1, 0.5)
 print(result_mp_s_root)
 
-item_1 = 7.2
-item_2 = 6.4
+item_1 = 7
+item_2 = 6
 result_devision = item_1 / item_2
 print(result_devision)
 
